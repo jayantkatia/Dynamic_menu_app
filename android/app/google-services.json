@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548436886899",
+    "firebase_url": "https://dynamic-menu2.firebaseio.com",
+    "project_id": "dynamic-menu2",
+    "storage_bucket": "dynamic-menu2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548436886899:android:faea3380cfc122fc303106",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_menu2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548436886899-cnlvnscagootudnfe0sagr5nis53g62q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLngyDejAiO3RUWkH2kkJ0Tv88zRPAb5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548436886899-cnlvnscagootudnfe0sagr5nis53g62q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
